@@ -53,17 +53,31 @@
 </div>
 
 <div class="str str1">
-  <p>Demo 1<br /> <a href="./?article=nyt">New York Times</a></p>
+  <p>
+    Demo 1<br />using a video file (mp4/webm)<br />
+    <a href="./?article=nyt">New York Times</a>
+  </p>
 </div>
 
 <div class="str str2">
-  <p>Demo 2<br /> <a href="./?article=airpods">AirPods</a></p>
+  <p>
+    Demo 2<br />animating using individual frames.<br />best performance but
+    very large download.<br />
+    <a href="./?article=airpods">AirPods</a>
+  </p>
 </div>
 
 <div class="str str3">
-  <p>Demo 3<br /> <a href="./?article=fischer">Poem Der Fischer</a></p>
+  <p>
+    Demo 3<br />individual frames, very large<br />
+    <a href="./?article=fischer">Poem Der Fischer</a>
+  </p>
 </div>
 
 <div class="str str4">
-  <p>Demo 4<br /> <a href="./?article=road">Poem The Road</a></p>
+  <p>
+    Demo 4<br />one mp4/webm video file <br /> performance is only good on Safari
+    desktop<br />
+    <a href="./?article=road">Poem The Road</a>
+  </p>
 </div>

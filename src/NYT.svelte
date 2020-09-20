@@ -73,9 +73,11 @@
   mp4Url="https://int.nyt.com/newsgraphics/2020/beirut-explosion-video/main/warehouse-800.mp4">
   <div id="scroll-container">
     <div class="heading">
-      <h1>Der Fischer</h1>
-      <p>von JOHANN WOLFGANG VON GOETHE</p>
-      <p><small>translation by Edwin Zeydel</small></p>
+      <h1>How a Massive Bomb Came Together in Beirut’s Port</h1>
+      <p>
+        <a
+          href="https://www.nytimes.com/interactive/2020/09/09/world/middleeast/beirut-explosion.html">source</a>
+      </p>
     </div>
     <div class="str str1">
       <p>
