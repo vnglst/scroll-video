@@ -1,9 +1,4 @@
 <style>
-  #vid1 {
-    position: relative;
-    height: 4000px;
-  }
-
   .str {
     position: absolute;
     display: flex;
@@ -13,10 +8,10 @@
   }
 
   .str p {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     line-height: 1.5;
-    opacity: 0.7;
+    opacity: 0.9;
     padding: 2em;
     font-size: 1em;
     min-width: 23em;
@@ -48,12 +43,8 @@
   .heading h1 {
     color: white;
     font-size: 4em;
-    padding: 0.2em;
+    padding: 0 1em;
     text-align: center;
-  }
-
-  a {
-    color: lightskyblue;
   }
 </style>
 
