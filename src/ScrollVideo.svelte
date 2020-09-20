@@ -47,6 +47,7 @@
 <svelte:window bind:scrollY={y} />
 
 <div class="video-container">
+  <!-- TODO: find a way to completely preload video to avoid lag in playback -->
   <video
     poster={posterUrl}
     bind:currentTime={time}
