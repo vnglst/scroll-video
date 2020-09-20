@@ -70,7 +70,7 @@
 
 <ScrollFrames
   frameCount={610}
-  baseUrl={process.env.NODE_ENV === 'development' ? `./images/waves` : `https://res.cloudinary.com/vnglst/image/upload/f_auto,q_auto/v1600437992/waves/waves`}>
+  baseUrl={process.env.NODE_ENV === 'development' ? `./images/waves` : `https://res.cloudinary.com/vnglst/image/upload/f_auto,q_auto/v1600437992/waves`}>
   <div id="scroll-container">
     <div class="heading">
       <h1>Der Fischer</h1>
