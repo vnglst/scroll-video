@@ -98,7 +98,7 @@
 <div id="scroll-container">
   <div class="heading">
     <h1>Video Scroll Tutorial</h1>
-    <p>Svelte bindings to make our frontend lives easier</p>
+    <p>Using Svelte bindings to make our frontend lives easier</p>
   </div>
   <div class="str str1">
     <p>
